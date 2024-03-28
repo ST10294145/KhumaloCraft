@@ -1,2 +1,2 @@
 # KhumaloCraft
-Cloud POE
+Cloud Development POE
